@@ -1,0 +1,15 @@
+.idea/
+.rustc_info.json
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+debug/
+release/
+rust_c_interop
+x86_64-unknown-linux-gnu/
+.cmake/
+Testing/
+build.ninja
+.ninja_log
+.ninja_deps
